@@ -45,8 +45,8 @@ Log-Regression model and visualization are located in the:
 `src/salary_analysis_v2.ipynb`. Make sure you select the correct python kernel, and everything should work.
 
 ## 3. Some Examples
-![](/ECE143-group-project14/results/q1_exp_vs_avg_salary.png)
+![](results/q1_exp_vs_avg_salary.png)
 
-![](/ECE143-group-project14/results/q2_med_salary_vs_remote&exp.png)
+![](results/q2_med_salary_vs_remote&exp.png)
 
-![](/ECE143-group-project14/results/Top_15_Features_by_Mean_Absolute_Coefficient.png)
+![](results/Top_15_Features_by_Mean_Absolute_Coefficient.png)
