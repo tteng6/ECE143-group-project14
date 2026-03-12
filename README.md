@@ -1,6 +1,6 @@
 # ECE143-group-project-team14
 This is the repo for group project in ECE143.
-
+*Presentation Link*: [Video Link](https://drive.google.com/file/d/1y9QtDSKwhNIHG8sm3B82whwQQ5J2h5Yt/view?usp=drive_link)
 ## 0. Dataset
 The dataset we chose is "Data Science Salaries 2023"
 -> [[Kaggle]](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
